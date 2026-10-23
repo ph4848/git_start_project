@@ -1,3 +1,3 @@
-c.txt
+.
 this is the second line of c.txt
 this is the third line of c.txt
